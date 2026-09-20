@@ -1,0 +1,14 @@
+{
+  "name": "arshidkv12/beastx",
+  "description": "BeastX PHP extension for runtime source code protection (php-beast continuation)",
+  "type": "php-ext",
+  "license": "PHP-3.01",
+  "require": {
+    "php": ">=7.0"
+  },
+  "extra": {
+    "pie": {
+      "extension-name": "beastx"
+    }
+  }
+}

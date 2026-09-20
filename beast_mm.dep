@@ -1,0 +1,4 @@
+beast_mm.lo: /Users/arshid/Downloads/php-beast/beast_mm.c \
+  /Users/arshid/Downloads/php-beast/spinlock.h \
+  /Users/arshid/Downloads/php-beast/beast_log.h \
+  /Users/arshid/Downloads/php-beast/shm.h

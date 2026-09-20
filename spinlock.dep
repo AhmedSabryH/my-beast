@@ -1,0 +1,3 @@
+spinlock.lo: /Users/arshid/Downloads/php-beast/spinlock.c \
+  /Users/arshid/Downloads/php-beast/spinlock.h \
+  /Users/arshid/Downloads/php-beast/beast_log.h

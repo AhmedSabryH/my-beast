@@ -1,0 +1,3 @@
+pipe_file_handler.lo: \
+  /Users/arshid/Downloads/php-beast/pipe_file_handler.c \
+  /Users/arshid/Downloads/php-beast/file_handler.h

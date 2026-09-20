@@ -1,0 +1,3 @@
+global_algo_modules.lo: \
+  /Users/arshid/Downloads/php-beast/global_algo_modules.c \
+  /Users/arshid/Downloads/php-beast/beast_module.h

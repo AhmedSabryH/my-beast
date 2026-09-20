@@ -1,0 +1,3 @@
+tmpfile_file_handler.lo: \
+  /Users/arshid/Downloads/php-beast/tmpfile_file_handler.c \
+  /Users/arshid/Downloads/php-beast/file_handler.h
